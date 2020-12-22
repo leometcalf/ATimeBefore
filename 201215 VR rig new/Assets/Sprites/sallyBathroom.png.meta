@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: a0f78d1bbd5c34a359f7a46994288db8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8687088393759980920
+    second: sally bathroom00000
+  - first:
+      213: 9181948405756812693
+    second: sally bathroom00001
+  - first:
+      213: -2053021101888348312
+    second: sally bathroom00002
+  - first:
+      213: 9023852878325551815
+    second: sally bathroom00003
+  - first:
+      213: -3862231029321349535
+    second: sally bathroom00004
+  - first:
+      213: 2513216125629908119
+    second: sally bathroom00005
+  - first:
+      213: 924730109334551304
+    second: sally bathroom00006
+  - first:
+      213: 5220047522284730520
+    second: sally bathroom00007
+  - first:
+      213: 2602331074941696909
+    second: sally bathroom00008
+  - first:
+      213: 2286434067726575064
+    second: sally bathroom00009
+  - first:
+      213: 6215234012503453142
+    second: sally bathroom00010
+  - first:
+      213: -7032667933172881599
+    second: sally bathroom00011
+  - first:
+      213: -6762586876652489937
+    second: sally bathroom00012
+  - first:
+      213: -604969513884498978
+    second: sally bathroom00013
+  - first:
+      213: 5395337231177021249
+    second: sally bathroom00014
+  - first:
+      213: 9134480138430620547
+    second: sally bathroom00015
+  - first:
+      213: 1373512145120577803
+    second: sally bathroom00016
+  - first:
+      213: -658002383266786941
+    second: sally bathroom00017
+  - first:
+      213: 3603744498602983665
+    second: sally bathroom00018
+  - first:
+      213: -3654138631780616416
+    second: sally bathroom00019
+  - first:
+      213: 9026655246830475901
+    second: sally bathroom00020
+  - first:
+      213: 4365390899509344401
+    second: sally bathroom00021
+  - first:
+      213: -3994226246129887663
+    second: sally bathroom00022
+  - first:
+      213: 4833197290356846036
+    second: sally bathroom00023
+  - first:
+      213: 2407475626814126003
+    second: sally bathroom00024
+  - first:
+      213: -8229022391430516374
+    second: sally bathroom00025
+  - first:
+      213: -1218026277980854826
+    second: sally bathroom00026
+  - first:
+      213: 4974590313092010949
+    second: sally bathroom00027
+  - first:
+      213: -3749116022633955928
+    second: sally bathroom00028
+  - first:
+      213: -1539880263764859705
+    second: sally bathroom00029
+  - first:
+      213: -7969554673239182125
+    second: sally bathroom00030
+  - first:
+      213: -4102435903311768182
+    second: sally bathroom00031
+  - first:
+      213: -6470894052480092054
+    second: sally bathroom00032
+  - first:
+      213: 6600947377788311284
+    second: sally bathroom00033
+  - first:
+      213: -4835706852691855104
+    second: sally bathroom00034
+  - first:
+      213: 4385144089808607311
+    second: sally bathroom00035
+  - first:
+      213: -2541322871403305360
+    second: sally bathroom00036
+  - first:
+      213: 8084943647772940259
+    second: sally bathroom00037
+  - first:
+      213: 8500137647399659486
+    second: sallyBathroom_0
+  - first:
+      213: 1853679347739497265
+    second: sallyBathroom_1
+  - first:
+      213: -4892008639956061681
+    second: sallyBathroom_2
+  - first:
+      213: -9109077051999617765
+    second: sallyBathroom_3
+  - first:
+      213: -3898988566203178506
+    second: sallyBathroom_4
+  - first:
+      213: 4096722769700664616
+    second: sallyBathroom_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sally bathroom00000
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 235
+        width: 205
+        height: 788
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5482234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882848dc123417780800000000000000
+      internalID: -8687088393759980920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00001
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d591f4d65dc6f70800000000000000
+      internalID: 9181948405756812693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00002
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f50996f243283e0800000000000000
+      internalID: -2053021101888348312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00003
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c21bf5e16a2b3d70800000000000000
+      internalID: 9023852878325551815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664fc08759966ac0800000000000000
+      internalID: -3862231029321349535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00005
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79444fb20ccb0e220800000000000000
+      internalID: 2513216125629908119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00006
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b7eff822d45dc00800000000000000
+      internalID: 924730109334551304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00007
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89870748095517840800000000000000
+      internalID: 5220047522284730520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00008
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3cdd23565d1420800000000000000
+      internalID: 2602331074941696909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a139abab0bbf10800000000000000
+      internalID: 2286434067726575064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00010
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda1379762f04650800000000000000
+      internalID: 6215234012503453142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00011
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14723f386c1f66e90800000000000000
+      internalID: -7032667933172881599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00012
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f86eb0177622a0800000000000000
+      internalID: -6762586876652489937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00013
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed349f0be67ba97f0800000000000000
+      internalID: -604969513884498978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147feb340a610ea40800000000000000
+      internalID: 5395337231177021249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00015
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a4031a4134ce70800000000000000
+      internalID: 9134480138430620547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00016
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c890d402bf0310800000000000000
+      internalID: 1373512145120577803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00017
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381d504915e4ed6f0800000000000000
+      internalID: -658002383266786941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00018
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0cf7c2782130230800000000000000
+      internalID: 3603744498602983665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273fac5644e94dc0800000000000000
+      internalID: -3654138631780616416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00020
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1f392f1f154d70800000000000000
+      internalID: 9026655246830475901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00021
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1983afee4ebf49c30800000000000000
+      internalID: 4365390899509344401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00022
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d2e63468a198c0800000000000000
+      internalID: -3994226246129887663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00023
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda9150457f21340800000000000000
+      internalID: 4833197290356846036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7baa5c352196120800000000000000
+      internalID: 2407475626814126003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00025
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617c06fbb3accd80800000000000000
+      internalID: -8229022391430516374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00026
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52cd5bd83b81fe0800000000000000
+      internalID: -1218026277980854826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00027
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d2f2888b490540800000000000000
+      internalID: 4974590313092010949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00028
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7d2157d678fbc0800000000000000
+      internalID: -3749116022633955928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c429a90f0f31aae0800000000000000
+      internalID: -1539880263764859705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00030
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4368bcf34766190800000000000000
+      internalID: -7969554673239182125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00031
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851b4518483117c0800000000000000
+      internalID: -4102435903311768182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00032
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a687cbeb424c236a0800000000000000
+      internalID: -6470894052480092054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00033
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 205
+        height: 787
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.5476493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65e12baa64b9b50800000000000000
+      internalID: 6600947377788311284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 205
+        height: 794
+      alignment: 9
+      pivot: {x: 0.8097561, y: 0.55289674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093167fc3e14ecb0800000000000000
+      internalID: -4835706852691855104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00035
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 204
+        height: 792
+      alignment: 9
+      pivot: {x: 0.8137255, y: 0.5441919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4812f1f0592bdc30800000000000000
+      internalID: 4385144089808607311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00036
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 237
+        width: 207
+        height: 786
+      alignment: 9
+      pivot: {x: 0.8067633, y: 0.5496183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0762e6e10586bbcd0800000000000000
+      internalID: -2541322871403305360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sally bathroom00037
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 237
+        width: 206
+        height: 786
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.54834604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79e8a696d733070800000000000000
+      internalID: 8084943647772940259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
